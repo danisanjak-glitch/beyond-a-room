@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#e6e6e6">
+  <title>Add your own links · Beyond a room</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23888'/%3E%3Crect x='7' y='7' width='7' height='7' fill='%23231f20'/%3E%3Crect x='18' y='7' width='7' height='7' fill='%23231f20'/%3E%3Crect x='7' y='18' width='7' height='7' fill='%23231f20'/%3E%3Crect x='19' y='19' width='4' height='4' fill='%23231f20'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="add" data-stage="home">
+
+  <video id="bg" class="bg" muted loop playsinline preload="auto" poster="assets/poster.jpg" aria-hidden="true" tabindex="-1"></video>
+
+  <div class="page">
+
+    <header class="site-head" data-stages="home">
+      <h1 class="site-title"><a href="index.html" data-i18n="title">Beyond a room</a></h1>
+      <p class="credits" data-i18n="credits">by Antoine Clauzel, Daniel Sanz Jakob and Esther Roussel</p>
+    </header>
+
+    <div class="lang" role="group" data-i18n-aria="langLabel" aria-label="Language" data-stages="home">
+      <button type="button" data-lang="en" lang="en" aria-label="English">EN</button>
+      <button type="button" data-lang="fr" lang="fr" aria-label="Français">FR</button>
+      <button type="button" data-lang="es" lang="es" aria-label="Español">ES</button>
+    </div>
+
+    <main class="stage">
+      <div class="panels panels-add" data-stages="home">
+
+        <!-- Panel 1: what happens to a submitted link -->
+        <section class="glass card info" aria-labelledby="add-title">
+          <h2 id="add-title" class="display display-sm" data-i18n="addTitle">Add your own links</h2>
+          <p class="body" data-i18n="addWarning">Every link is reviewed before it appears publicly. Nothing is shown until it is approved.</p>
+          <p class="body" data-i18n="addIdeas">Personal things are welcome: your design account, your portfolio, a project you like.</p>
+          <p class="body body-quiet" data-i18n="addPrivacy">Only the link you type is sent. No names, no tracking.</p>
+          <a class="btn-text back" href="index.html" data-i18n="back">Back to the room</a>
+        </section>
+
+        <!-- Panel 2: the form -->
+        <section class="glass card form-card" aria-label="Form">
+          <form id="link-form" novalidate>
+            <label for="url" class="field-label" data-i18n="label">Link</label>
+            <input id="url" name="url" type="text" inputmode="url" autocomplete="off" autocapitalize="off" spellcheck="false"
+                   maxlength="2048" placeholder="https://" aria-describedby="form-status">
+            <!-- Honeypot: invisible to people, bots tend to fill it in -->
+            <div class="hp" aria-hidden="true">
+              <label>Website <input type="text" name="website" tabindex="-1" autocomplete="off"></label>
+            </div>
+            <button type="submit" class="btn btn-primary" id="submit" data-i18n="submit">Submit link</button>
+            <p id="form-status" class="status status-form" role="status" aria-live="polite"></p>
+          </form>
+        </section>
+      </div>
+    </main>
+  </div>
+
+  <noscript><p class="noscript">This website needs JavaScript to work.</p></noscript>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/add.js"></script>
+</body>
+</html>

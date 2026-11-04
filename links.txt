@@ -1,0 +1,112 @@
+# BEYOND A ROOM: approved links
+# One URL per line, each starting with http:// or https://
+# Lines beginning with # and blank lines are ignored.
+# To add a link: paste it on a new line. To remove one: delete the line (or put # in front of it).
+# Changes only need to be saved/committed; no code changes are required.
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1
+https://www.boredbutton.com
+https://www.pentagram.com
+https://en.wikipedia.org/wiki/Special:Random
+https://neal.fun
+https://theuselessweb.com
+https://pointerpointer.com
+https://cat-bounce.com
+https://endless.horse
+https://checkboxrace.com
+https://longdogechallenge.com
+https://www.koalastothemax.com
+https://www.drawastickman.com
+https://www.omfgdogs.com
+https://www.staggeringbeauty.com
+https://www.eelslap.com
+https://www.zoomquilt.org
+https://www.window-swap.com
+https://radio.garden
+https://www.earthcam.com
+https://www.geoguessr.com
+https://www.chess.com
+https://www.newgrounds.com
+https://www.itsnicethat.com
+https://www.underconsideration.com/brandnew
+https://www.eyemagazine.com
+https://www.aiga.org
+https://www.davidcarsondesign.com
+https://www.andwalsh.com
+https://www.sagmeister.com
+https://www.jessicahische.is
+https://www.obeygiant.com
+https://www.bruno-simon.com
+https://www.awwwards.com
+https://www.behance.net
+https://www.are.na
+https://www.artsy.net
+https://www.moma.org
+https://www.tate.org.uk
+https://www.louvre.fr
+https://www.centrepompidou.fr
+https://www.musee-orsay.fr
+https://www.designmuseum.org
+https://www.vam.ac.uk
+https://www.getty.edu
+https://artsandculture.google.com
+https://www.wikipedia.org
+https://www.boredpanda.com
+https://www.thisiscolossal.com
+https://www.openculture.com
+https://www.instructables.com
+https://www.exploratorium.edu
+https://www.nationalgeographic.com
+https://www.nasa.gov
+https://apod.nasa.gov/apod/astropix.html
+https://www.flightradar24.com
+https://www.marinetraffic.com
+https://www.worldometers.info
+https://www.theuselessweb.com
+https://98.js.org
+https://www.chromeexperiments.com
+https://experiments.withgoogle.com
+https://musiclab.chromeexperiments.com
+https://www.autodraw.com
+https://www.photopea.com
+https://www.typographicposters.com
+https://www.fontsinuse.com
+https://www.typewolf.com
+https://www.csszengarden.com
+https://www.cameronsworld.net
+https://www.spacejam.com/1996
+https://www.windows93.net
+https://www.doomworld.com
+https://www.skribbl.io
+https://www.agar.io
+https://www.slither.io
+https://neal.fun/password-game
+https://neal.fun/absurd-trolley-problems
+https://neal.fun/space-elevator
+https://neal.fun/earth-reviews
+https://neal.fun/infinite-craft
+https://neal.fun/size-of-space
+https://neal.fun/wonders-of-street-view
+https://neal.fun/draw-your-island
+https://neal.fun/printing-money
+https://neal.fun/auction-game
+https://neal.fun/asteroid-launcher
+https://neal.fun/ambient-chaos
+https://neal.fun/baby-map
+https://neal.fun/where-does-the-day-go
+https://neal.fun/internet-artifacts
+
+# ---------------------------------------------------------------
+# REMOVED FROM THE ORIGINAL LIST (re-enable by deleting the leading #)
+# ---------------------------------------------------------------
+# https://www.miniclip.com          (ad-heavy game portal)
+# https://www.kongregate.com        (ad-heavy game portal, largely dormant)
+# https://www.poki.com              (ad-heavy game portal)
+# https://www.crazygames.com        (ad-heavy game portal)
+# https://www.coolmathgames.com     (ad-heavy game portal)
+# https://www.minecraft.net         (product page, not a playful destination)
+# https://www.figma.com             (sign-up wall, not a discovery destination)
+# https://www.infinitecraft.com     (unverified; the original is neal.fun/infinite-craft)
+# https://www.odd-sites.com         (could not verify that this site exists)
+# https://www.design.studio         (could not verify, generic domain)
+
