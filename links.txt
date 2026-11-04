@@ -5,11 +5,9 @@
 # Changes only need to be saved/committed; no code changes are required.
 
 https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1
-https://www.boredbutton.com
 https://www.pentagram.com
 https://en.wikipedia.org/wiki/Special:Random
 https://neal.fun
-https://theuselessweb.com
 https://pointerpointer.com
 https://cat-bounce.com
 https://endless.horse
