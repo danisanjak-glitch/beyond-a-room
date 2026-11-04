@@ -95,7 +95,10 @@ https://neal.fun/ambient-chaos
 https://neal.fun/baby-map
 https://neal.fun/where-does-the-day-go
 https://neal.fun/internet-artifacts
-
+https://www.museothyssen.org/en
+https://metmuseum.events/?gad_source=1&gad_campaignid=24427184869&gclid=CjwKCAiAqabXBhBUEiwAw_SQpRgROEe9PB6IQcCRLk1GqqmAu9SJaE5EnuHtxg4j73cHUlUdMp0DmBoCtgAQAvD_BwE
+https://www.ecv.fr/en/
+https://earth.google.com/
 # ---------------------------------------------------------------
 # REMOVED FROM THE ORIGINAL LIST (re-enable by deleting the leading #)
 # ---------------------------------------------------------------
